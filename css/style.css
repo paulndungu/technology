@@ -1,0 +1,107 @@
+.tech{
+    color: blue;
+    text-align: center;
+    font-family: 'Audiowide', cursive;
+}
+
+.row1{
+    background-color: rgb(66, 248, 248);
+}
+.intro{
+    color: navy;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+.introduction{
+    color: rgb(46, 46, 173);
+    font-family: 'Changa', sans-serif;
+}
+.def{
+    color: navy;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+.definitions{
+    color: rgb(46, 46, 173);
+    font-family: 'Changa', sans-serif;
+}
+.sci{
+    color: navy;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+.science{
+    color: rgb(46, 46, 173); 
+    font-family: 'Changa', sans-serif;
+}
+
+.row2{
+    background-color: rgb(85, 233, 183);
+}
+.stone {
+    color: rgb(4, 139, 94);
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+.stonetech{
+    color: rgb(29, 172, 124);
+    font-family: 'Changa', sans-serif;
+}
+.cloth{
+    color: rgb(4, 139, 94);
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+.clothing{
+    color: rgb(29, 172, 124);
+    font-family: 'Changa', sans-serif;
+}
+.energ{
+    color: rgb(4, 139, 94);
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+.energy{
+    color: rgb(29, 172, 124);
+    font-family: 'Changa', sans-serif;
+}
+.plumb{
+    color: rgb(4, 139, 94);
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+.plumbing{
+    color: rgb(29, 172, 124);
+    font-family: 'Changa', sans-serif;
+}
+
+.row3{
+    background-color: lightgreen;
+}
+.technis{
+    color: rgb(13, 228, 13);
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+.technisism{
+    color: rgb(61, 180, 61);
+    font-family: 'Changa', sans-serif;
+}
+.opti{
+    color: rgb(13, 228, 13);
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+.optimism{
+    color: rgb(61, 180, 61);
+    font-family: 'Changa', sans-serif;
+}
+.skept{
+    color: rgb(13, 228, 13);
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+.skepticism{
+    color: rgb(61, 180, 61);
+    font-family: 'Changa', sans-serif;
+}
